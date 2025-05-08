@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning CYBERSECURITY , IT SKILLS, CLOUD
 - 💞️ Colaborating with IT people on different projects. AWS cloud projects
 - 📫 federicoaliaga@hotmail.com
+- Certifications: Comptia Security +
+-                 AWS Certified Cloud Practitioner
+-                 Comptia A+
   
 
 <!---
