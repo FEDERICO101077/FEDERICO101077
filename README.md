@@ -4,6 +4,8 @@
 - 💞️ Colaborating with IT people on different projects. AWS cloud projects
 - 📫 federicoaliaga@hotmail.com
 - Certifications: Comptia Security + , AWS Certified Cloud Practitioner , Comptia A+
+- https://www.credly.com/badges/5893e546-02db-449a-a864-bc7ee7c36fd6/public_url
+- https://www.credly.com/badges/bba951a2-9610-4c00-b157-2a2d4056908b/public_url
   
 
 <!---
